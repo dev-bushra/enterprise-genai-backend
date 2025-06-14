@@ -7,5 +7,8 @@ Google & Mircrosoft Passports:
 AI Prompt:
 ### ai-workflow Repo: AI Prompt Workflow Management System (AI Prompt Workflow) 
 
+Celery:
+### ai-workflow-with-celery Repo: adding Celery to the project
+
 Run long background tasks (e.g. generating a PDF, or waiting for an AI response):
 Celery + Redis
